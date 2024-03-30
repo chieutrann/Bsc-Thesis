@@ -8,7 +8,7 @@
 <ul>
   <li> <p> <a href="https://github.com/CNuge/BOLD-CLI" >BOLD-CLI:</a> A command line interface for data retrieval from the barcode of life data system </p>  </li>
  <li> <p><a href="https://github.com/Cibiv/IQ-TREE" >IQ-TREE:</a> Efficient and versatile phylogenomic software by maximum likelihood http://www.iqtree.org </p>   </li>
- <li><p><a href="https://github.com/GSLBiotech/mafft" >MAFFT:</a> a multiple sequence alignment program </p>  </li>
+ <li><p><a href="https://github.com/GSLBiotech/mafft" >MAFFT:</a> A multiple sequence alignment program </p>  </li>
  <li><p><a href="https://github.com/GSLBiotech/mafft](https://www.r-project.org/" >R Programming:</a> Programming language for statistical analyses </p>  </li>
  <li><p>Bash: Preprocessnig and cleaning data</p>  </li>
   
